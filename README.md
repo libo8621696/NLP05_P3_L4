@@ -65,4 +65,4 @@
 
 我们可以看到，通过beam search算法得到的结果评测指标如下：
 
-![predict beam search 代码](./end_train_pgn_result.jpg)
+![predict beam search 代码](./beam_search_pgn_result.jpg)
