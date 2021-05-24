@@ -61,5 +61,5 @@
 调用pgn_tf2中的train.py就可以进行训练了，输入```python -m src.pgn_tf2.train```即可展开训练，训练时间比较长，训练过程与之前seq2seq模型相比，其损失函数刚开始很高，达到了７.0233到4.7712
 ![predict beam search 代码](./start_train_pgn.png)
 
-![predict beam search 代码](./end_train_pgn_result.png)
+![predict beam search 代码](./end_train_pgn_result.jpg)
 
